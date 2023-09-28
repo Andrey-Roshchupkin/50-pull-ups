@@ -1,2 +1,2 @@
-# 50-pushups
-ToDo 50 pushups
+# 50 Push-ups
+ToDo 50 push-ups
