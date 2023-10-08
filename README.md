@@ -1,2 +1,2 @@
-# 50 Push-ups
-ToDo 50 push-ups
+# 50 puii-ups
+ToDo 50 pull-ups
