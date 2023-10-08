@@ -5,7 +5,7 @@ function saveLastChecked(checkboxId) {
 
 // Function to retrieve the last checked checkbox from local storage
 function getLastChecked() {
-  return localStorage.getItem("lastChecked");
+  return localStorage.getItem("lastChecked") || "001";
 }
 
 // Function to update checkboxes based on the last checked checkbox
