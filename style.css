@@ -30,6 +30,7 @@ div.week {
 div.day {
   display: flex;
   flex-wrap: wrap;
+  margin-top: 3vh;
 }
 
 div.day > div {
